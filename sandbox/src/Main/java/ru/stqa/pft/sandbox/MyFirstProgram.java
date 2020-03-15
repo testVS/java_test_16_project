@@ -3,17 +3,13 @@ package ru.stqa.pft.sandbox;
 public class MyFirstProgram {
 
 	public static void main(String[] args) {
-		hello("MOON15");
+		hello(" MOON15");
 
-		Square s = new Square();
-		s.l = 5.0;
+		Square s = new Square(5);
 		System.out.println("Square area is: " + area(s));
 
-		Rectangle r = new Rectangle();
-		r.a = 5.5;
-		r.b = 4.5;
+		Rectangle r = new Rectangle(10,5.1);
 		System.out.println("Rectangle area is: " + area(r));
-
  }
 	public static void hello(String somebody) {
 		System.out.println("Hello" + somebody + " !") ;
