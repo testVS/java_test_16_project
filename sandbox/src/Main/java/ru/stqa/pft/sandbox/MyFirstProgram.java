@@ -3,22 +3,27 @@ package ru.stqa.pft.sandbox;
 public class MyFirstProgram {
 
 	public static void main(String[] args) {
-		double a = 5.5;
-		double b = 6.5;
 		hello("MOON15");
-		System.out.println("Square are is: " + area(a));
-		System.out.println("Rectangle are is: " + area(a,b));
+
+		Square s = new Square();
+		s.l = 5.0;
+		System.out.println("Square area is: " + area(s));
+
+		Rectangle r = new Rectangle();
+		r.a = 5.5;
+		r.b = 4.5;
+		System.out.println("Rectangle area is: " + area(r));
+
  }
 	public static void hello(String somebody) {
-		System.out.println("Hello" + somebody + "!") ;
-		;
+		System.out.println("Hello" + somebody + " !") ;
 	}
 
-	public static double area (Double a){
-		return a * a;
+	public static double area (Square s){
+		return s.l * s.l;
 	}
 
-	public static double area (Double a, Double b){
-		return a * b;
+	public static double area (Rectangle r){
+		return r.a * r.b;
 	}
 }
