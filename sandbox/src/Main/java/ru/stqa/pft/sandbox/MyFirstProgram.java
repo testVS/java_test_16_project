@@ -8,13 +8,13 @@ public class MyFirstProgram {
 		Square s = new Square(4);
 		System.out.println("Square area is: " + s.area());
 
-		Rectangle r = new Rectangle(11,7.1);
+		Rectangle r = new Rectangle(11, 7.1);
 		System.out.println("Rectangle area is: " + r.area());
- }
-	public static void hello(String somebody) {
-		System.out.println("Hello" + somebody + " !") ;
+
+
 	}
 
-
-
+	public static void hello(String somebody) {
+		System.out.println("Hello" + somebody + " !");
+	}
 }
