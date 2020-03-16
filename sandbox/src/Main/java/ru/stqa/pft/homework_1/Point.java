@@ -5,7 +5,7 @@ public class Point {
     public static void main(String[] args) {
 
         //координаты первой точки
-        P1 p1 = new P1(75,23);
+        P1 p1 = new P1(35,23);
         System.out.println("Координаты точки p1 = " + p1.coord());
         //координаты второй точки
         P2 p2 = new P2(27,35);
