@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67c2e312-f35e-4e24-a2f4-cd7c489982fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/sandbox">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/sandbox">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sandbox" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="sandbox" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z7cdzaVyL6vOTnfwx5VVeiPDk5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/sandbox/src/Main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sandbox/Build.gradle" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.stqa.pft.homework_1" />
+      <recent name="ru.stqa.pft.sandbox" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.PointTest.TestDistance">
+    <configuration name="PointTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sandbox.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.homework_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.homework_2" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.homework_2.PointTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointTest.TestDistance" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sandbox.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.homework_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.homework_2" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.homework_2.PointTest" />
+      <option name="METHOD_NAME" value="TestDistance" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointTest.TestP1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sandbox.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.homework_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.homework_2" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.homework_2.PointTest" />
+      <option name="METHOD_NAME" value="TestP1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointTest.TestP2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sandbox.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.homework_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.homework_2" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.homework_2.PointTest" />
+      <option name="METHOD_NAME" value="TestP2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquareTests (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="sandbox.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.stqa.pft.sandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.stqa.pft.sandbox" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.pft.sandbox.SquareTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.SquareTests (1)" />
+      <item itemvalue="TestNG.PointTest" />
+      <item itemvalue="TestNG.PointTest.TestP1" />
+      <item itemvalue="TestNG.PointTest.TestP2" />
+      <item itemvalue="TestNG.PointTest.TestDistance" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PointTest.TestDistance" />
+        <item itemvalue="TestNG.PointTest" />
+        <item itemvalue="TestNG.PointTest.TestP1" />
+        <item itemvalue="TestNG.PointTest.TestP2" />
+        <item itemvalue="TestNG.SquareTests (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67c2e312-f35e-4e24-a2f4-cd7c489982fd" name="Default Changelist" comment="" />
+      <created>1584193663686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584193663686</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="758" y="326" width="598" height="683" key="#MyFirstProgram" timestamp="1584216786245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="326" width="598" height="683" key="#MyFirstProgram/0.0.1920.1040@0.0.1920.1040" timestamp="1584216786245" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1584206604065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1584206604065" />
+    <state x="495" y="323" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584287173707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="495" y="323" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584287173707" />
+    <state x="770" y="452" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584285146751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="770" y="452" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584285146751" />
+    <state x="756" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584197338433">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1584197338433" />
+    <state x="1059" y="393" width="422" height="257" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1584304680886">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1059" y="393" width="422" height="257" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1584304680886" />
+    <state x="635" y="229" key="FileChooserDialogImpl" timestamp="1584216752196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="635" y="229" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584216752196" />
+    <state width="1340" height="461" key="GridCell.Tab.0.bottom" timestamp="1584329883863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="461" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584329883863" />
+    <state width="1340" height="461" key="GridCell.Tab.0.center" timestamp="1584329883863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="461" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584329883863" />
+    <state width="1340" height="461" key="GridCell.Tab.0.left" timestamp="1584329883863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="461" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584329883863" />
+    <state width="1340" height="461" key="GridCell.Tab.0.right" timestamp="1584329883863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="461" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584329883863" />
+    <state width="670" height="328" key="GridCell.Tab.1.bottom" timestamp="1584285012910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="670" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584285012910" />
+    <state width="670" height="328" key="GridCell.Tab.1.center" timestamp="1584285012910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="670" height="328" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584285012910" />
+    <state width="670" height="328" key="GridCell.Tab.1.left" timestamp="1584285012910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="670" height="328" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584285012910" />
+    <state width="670" height="328" key="GridCell.Tab.1.right" timestamp="1584285012910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="670" height="328" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584285012910" />
+    <state x="709" y="106" key="SettingsEditor" timestamp="1584566764042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="709" y="106" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584566764042" />
+    <state x="776" y="301" key="chooseDestDirectoryDialog" timestamp="1584197338396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="301" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584197338396" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584352441291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584352441291" />
+    <state x="536" y="256" width="847" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584204291991">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="536" y="256" width="847" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1584204291991" />
+    <state x="819" y="245" key="refactoring.ChangeSignatureDialog" timestamp="1584293932787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="819" y="245" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584293932787" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="sandbox" type="b2602c69:ProjectViewProjectNode" />
+        <item name="sandbox" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
