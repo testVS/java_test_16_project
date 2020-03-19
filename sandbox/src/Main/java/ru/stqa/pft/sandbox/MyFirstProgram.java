@@ -17,7 +17,7 @@ public class MyFirstProgram {
 	}
 
 	public static void hello(String somebody) {
-		System.out.println("Hello Alexei" + somebody + " !");
+		System.out.println("Hello " + somebody + " !");
 	}
 
 	public static double distance(Point p1, Point p2) {
