@@ -21,6 +21,6 @@ public class MyFirstProgram {
 	}
 
 	public static double distance(Point p1, Point p2) {
-		return Math.sqrt(p1.coord() + p2.coord());
+		return Math.floor ( Math.sqrt(p1.coord() + p2.coord()));
 	}
 }
